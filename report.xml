@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1670848245925" stop="1670848313854" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Navigate to staff</name>
+    <description type="text"></description>
+    <test-cases>
+        <test-case start="1670848246253" stop="1670848313714" status="passed">
+            <name>Verify staff</name>
+            <title>Verify staff</title>
+            <description type="text"></description>
+            <steps>
+                <step start="1670848261133" stop="1670848280940" status="passed">
+                    <name>Given I login to nextgenS0075 and Abc!@1</name>
+                    <title>Given I login to nextgenS0075 and Abc!@1</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1670848280944" stop="1670848300354" status="passed">
+                    <name>When I click on staffad and save details</name>
+                    <title>When I click on staffad and save details</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1670848300374" stop="1670848307964" status="passed">
+                    <name>Then I click on edit and search for add</name>
+                    <title>Then I click on edit and search for add</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="story" value="Verify staff"/>
+                <label name="feature" value="Navigate to staff"/>
+                <label name="host" value="DESKTOP-AF7NME8"/>
+                <label name="thread" value="15240@DESKTOP-AF7NME8.main(1)"/>
+                <label name="framework" value="CucumberJVM"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="feature" value="Navigate to staff"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
